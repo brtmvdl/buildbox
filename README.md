@@ -2,6 +2,12 @@
 
 Desafio Desenvolvimento Web para a [Buildbox](https://buildbox.com.br/) [no Linkedin](https://www.linkedin.com/jobs/view/3332381870).
 
+## Tools
+
+- [ ] (CRUD) Lista de posts (nome, mensagem, foto)
+
+- [ ] Off-line first
+
 ## Stack
 
 [React.js](https://reactjs.org/)
