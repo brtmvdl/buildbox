@@ -15,6 +15,8 @@ Desafio Desenvolvimento Web para a [Buildbox](https://buildbox.com.br/) [no Link
 ```
 bash env/pull.sh
 
+bash env/install.sh
+
 bash env/up.sh
 ```
 
