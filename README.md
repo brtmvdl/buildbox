@@ -4,7 +4,7 @@ Desafio Desenvolvimento Web para a [Buildbox](https://buildbox.com.br/) [no Link
 
 ## Stack
 
-[React.js]()
+[React.js](https://reactjs.org/)
 
 [Styled components](https://www.npmjs.com/package/styled-components)
 
