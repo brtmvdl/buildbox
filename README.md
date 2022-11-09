@@ -4,7 +4,7 @@ Desafio Desenvolvimento Web para a [Buildbox](https://buildbox.com.br/) [no Link
 
 ## Tools
 
-- [ ] (CRUD) Lista de posts (nome, mensagem, foto)
+- [x] (CRUD) Lista de posts (nome, mensagem, foto)
 
 - [ ] Off-line first
 
